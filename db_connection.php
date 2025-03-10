@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$dbname = "OBS1";
+$host = "sql207.infinityfree.com";
+$user = "if0_38478543";
+$pass = "R4REcRx7IXrJXk";
+$dbname = "if0_38478543_OBS1";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
